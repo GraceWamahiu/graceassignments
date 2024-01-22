@@ -1,0 +1,44 @@
+body{
+    background-color: #ce0944;
+}
+
+
+form{
+ background-color:maroon;
+    width: 60%;
+   height: 560px;
+    margin: auto;
+    padding-left: 150px;
+    border-radius: 10px;
+    padding-top: 40px;
+    color: white;
+}
+
+
+
+button{
+    width: 365px;
+    height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+label{
+    float: left;
+    text-align: left;
+    width: 15%;
+}
+input{
+    display: inline-block;
+    float: left;
+}
+.one{
+    width: 6%;
+}
+.two{
+    width: 9%;
+}
+.three{
+    width: 7%;
+}
